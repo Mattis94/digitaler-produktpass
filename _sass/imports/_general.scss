@@ -391,7 +391,7 @@ img {
   position: relative;
 
   &:after {
-    border-left: 68px solid _palette(accent);
+    border-left: 68px solid white;
     display: block;
     content: "";
     height: 2px;

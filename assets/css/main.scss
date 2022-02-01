@@ -193,6 +193,21 @@ $palette: (
   overflow: hidden;
 }
 
+.videotitle {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+
+  h1 {
+	color: white;
+	font-size: 3.44444rem;
+  }
+
+  h2 {
+    color: white;
+  }
+}
+
 .social-block {
   margin-top: 3em;
   display: flex;
