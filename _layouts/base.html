@@ -52,7 +52,6 @@
     {% endif %}
 
     <meta property="og:type" content="website" />
-    <meta name="author" content="mmmint-ai" />
 
     {% if page.id %}
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
@@ -67,10 +66,6 @@
     <meta property="og:image" content="{{ page.share-img | absolute_url }}" />
     {% endif %}
 
-    <!-- Twitter summary cards -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@mmmint_ai" />
-    <meta name="twitter:creator" content="@mmmint_ai" />
 
     {% if page.meta-title %}
     <meta name="twitter:title" content="{{ page.meta-title }}" />

@@ -9,7 +9,7 @@ collections:
     permalink: "/blog/:year/:month/:day/:title/"
 
 header:
-  title: mmmint.ai
+  title: Digitaler Produktpass
   logo_img: images/scan.png
   has_nav: true
   nav:

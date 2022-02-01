@@ -17,77 +17,59 @@ sections:
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Der digitale Produktpass
+    title:
     subtitle: >-
       <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FB7Vq7Hli4sS76qp58gbDLP%2FPrototyping-in-Figma%3Fnode-id%3D0%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D0%253A2" allowfullscreen></iframe>
     featureslist:
-    - title: docphant. in einer Minute
-      video: /videos/docphant.mp4
-      videothumb: images/docphant_thumb.png
-      content: >-
-              doc<text class="title-bold">phant.</text> auf den Punkt gebracht. Erfahren Sie, wie doc<text class="title-bold">phant.</text> funktioniert und wie Sie mit doc<text class="title-bold">phant.</text> Ihren Prozess zur Bereitstellung der technischen Dokumentation verbessern und nutzbringend einsetzen.
-    - title: Optimierung betrieblicher Abläufe
-      image: images/SVG/optimize.png
-      content: >-
-              Das digitale Typenschild erhöht dem Komfort über die gesamte Wertschöpfungskette. ​Vom Wareneingang, wo das Produkt nicht mehr von der begleitenden Papierdokumentation befreit werden muss, bis hin zur Komponente, Maschine und Anlage, wo jederzeit alle Daten zur Verfügung stehen, um mit diesem Produkt arbeiten zu können. Die Daten lassen sich dabei nicht nur mit Smartphone oder Tablet abrufen, sondern können ebenfalls über das Informationsportal bequem aus dem Büro geöffnet werden.​ 
-    - title: 1 | Dokumente verknüpfen
-      image: images/icon_screen.png
-      content: >-
-              Als erstes richten wir Ihr Unternehmen als Hersteller mit eigenem Branding auf unserer Informationsplattform ein, hinterlegen Ihre Produkte und verknüpfen alle relevanten Dokumente.
-    - title: 2 | QR-Code erzeugen
-      image: images/icon_mobile.png
-      classname: scaleimg
-      content: >-
-              Im zweiten Schritt erzeugen wir im System einen QR-Code zu Ihrem Produkt, den Sie anschließend gut sichtbar auf Ihrem Typenschild oder separat auf Ihrem Produkt anbringen.​
-    - title: 3 | Dokumente abrufen
-      image: images/icon_robot.png
-      classname: scaleimg
-      content: >-
-              Drittens: Ihr Kunde scannt vor Ort den QR-Code und öffnet alle Dokumente wie bspw. Betriebsanleitungen, Schaltpläne und Stücklisten auf seinem Smartphone oder Tablet.​
+      - title: Der digitale Produktpass
+        content: >-
+          In der EU Klimapolitik wird ein elektronischer bzw. digitaler Produktpass als wesentliches Instrument für eine klimaschonende und ressourceneffiziente Wirtschaft genannt. Dieser soll u.a. Informationen über Herkunft, Zusammensetzung, Reparatur- und Demontagemöglichkeiten ines Produktes sowie über die Handhabung am Ende seiner Lebensdauer liefern.
+      - title: Transparenz im Wertschöpfungskreislauf
+        image: images/SVG/optimize.png
+        content: >-
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      - title: Kreislaufwirtschaft fördern
+        image: images/icon_screen.png
+        content: >-
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      - title: Nachhaltige Produkte
+        image: images/icon_mobile.png
+        classname: scaleimg
+        content: >-
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   - section_id: solutions
     component: features_block.html
     type: featuresblock
     bg: gray
-    title: Gute Gründe für doc<text class="title-bold">phant.</text> <br> <h4 class="colored-header"> > Vorsprung durch digitalen Wandel < </h4>
+    title: Warum der digitale Produktpass?
     subtitle: >-
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">   Sie stellen Ihrem Kunden Ihre technische Dokumentation digital zur Verfügung – egal wann und wo, mit docphant. sind alle Informationen immer griffbereit. </br></div>
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">   Durch die Bereitstellung digitaler Dokumente entfällt der aufwendige Prozess des Druckens und Versands. Sie sparen eine Menge Zeit für die Erstellung der Dokumentation in Papierform. </br></div>
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">   Nachhaltigkeit - Durch den Verzicht auf überflüssige Papierdokumentation handeln Sie ressourcen- und umweltschonend </br></div>
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">   docphant. beinhaltet ausschließlich die wichtigsten Software-Funktionen und ist damit intuitiv bedien- und ohne Schulung kundenseitig direkt verwendbar. Aufgrund der Beschränkung auf die wesentlichen Funktionen ist docphant. kostengünstig. ​ </br></div>
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">   Schnell finden statt lang suchen. – Die Suche nach Nutzerhandbüchern und Informationen in der After-Sales-Phase hat ein Ende. Nicht nur Ihr Kunde, auch Ihr Kundendienst profitiert durch den Zugriff auf docphant.​ </br></div>
+      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </br></div>
+      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</br></div>
+      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40">  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</br></div>
+
   - section_id: faq
     component: faq_block.html
     type: faqblock
     bg: gray
     title: Häufig gestellte Fragen
-    subtitle: 
+    subtitle:
     faqitems:
-      - question: Wie sicher ist doc<text class="title-bold">phant.</text> ?
+      - question: Was ist der digitale Produktpass ?
         answer: >-
-          docphant. ist sehr sicher. Alle Dokumente können nur mithilfe der eindeutigen Hersteller- und Produktidentifizierungsnummer abgerufen werden. Darüber hinaus handelt es sich dabei nur um einen Lesezugriff. Ein ändern der Daten ist nur über eine Autorisierung in unserem Portal möglich.
-      - question: Wo werden meine Daten und Dokumente gespeichert?
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      - question: Was ist der digitale Produktpass ?
         answer: >-
-         Unsere Daten liegen ausschließlich in deutschen Rechenzentren. Es wird strikt unter Einhaltung der gültigen DSGVO verarbeitet und gelagert.
-      - question: Sind meine Daten und Dokumente vor dem Zugriff durch Unbefugte geschützt?
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      - question: Was ist der digitale Produktpass ?
         answer: >-
-          Ihre Daten sind durch die Hersteller- und Produktidentifizierungsnummer geschützt. Ohne diese kann man nicht auf die Dokumente zugreifen.
-      - question: Warum ist für den Zugriff auf die Dokumente kein Passwort erforderlich?
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      - question: Was ist der digitale Produktpass ?
         answer: >-
-          Die Hersteller- und Produktidentifizierungsnummer bieten zusammen einen umfangreichen Schutz, um ein nicht autorisierten Zugriff auf die Dokumente zu verhindern. Nur wer in Besitz dieser beiden Nummern ist, kann auf die Dokumente zugreifen. Insgesamt existieren 5*10^74 verschiedene Möglichkeiten an verschiedenen Kombinationen. Ein zufälliges Erraten beider Identifizierungsnummern ist somit extrem unwahrscheinlich.
-      - question: Was spricht für die digitale Bereitstellung Ihrer technischen Dokumentation?
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      - question: Was ist der digitale Produktpass ?
         answer: >-
-          Ganz einfach – Die digitale Bereitstellung von Dokumenten wie bspw. Betriebsanleitungen ist nachhaltig und zeitgemäß. Unsere Lösung funktioniert ohne Installation, auf jedem Endgerät, zu jeder Zeit und ortsunabhängig.
-      - question: Ist die Bereitstellung von Betriebsanleitungen in Papierform verpflichtend?
-        answer: >-
-          Die Maschinenrichtlinie verlangt in Anhang I Ziffer 1.7.4 das „Beilegen“ einer Betriebsanleitung: „Jeder Maschine muss eine Betriebsanleitung in der oder den Amtssprachen der Gemeinschaft des Mitgliedstaats beiliegen, in dem die Maschine in Verkehr gebracht und/oder in Betrieb genommen wird.“ – Weitere Formerfordernisse sind im Gesetz nicht definiert.​ Die MRL wird aktuell jedoch einer Revision unterzogen und liegt im Entwurf vor. Schwerpunkte dieser Überarbeitung sind die Themen Digitalisierung und Künstliche Intelligenz. Gemäß diesem Entwurf sollen Maschineninformationen, wie z.B. Betriebsanleitungen, auch digital bereitgestellt werden können.
-  - section_id: call-to-action
-    component: cta_block.html
-    type: ctablock
-    title: Interesse geweckt?
-    subtitle: 
-    actions:
-      - label: Jetzt Kontakt aufnehmen!
-        url: "/contact"
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+         
 layout: home
 ---
 
