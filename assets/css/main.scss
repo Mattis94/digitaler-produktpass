@@ -188,6 +188,11 @@ $palette: (
 
 // Custom Styling
 
+.video-block {
+  max-height: 1000px;
+  overflow: hidden;
+}
+
 .social-block {
   margin-top: 3em;
   display: flex;
@@ -197,7 +202,7 @@ $palette: (
   margin-bottom: 3em;
 
   .header {
-	  margin-bottom: 2em;
+    margin-bottom: 2em;
   }
 
   .icon-wrapper {
@@ -208,20 +213,18 @@ $palette: (
   }
 
   a {
-	border-bottom: none;
-	
-	img {
-		width: 60px;
-		height: 60px;
-	}
+    border-bottom: none;
 
-	@media only screen and (max-width: 600px) {
-		img {
-			width: 35px;
-			height: 35px;
-		}
-	}
+    img {
+      width: 60px;
+      height: 60px;
+    }
+
+    @media only screen and (max-width: 600px) {
+      img {
+        width: 35px;
+        height: 35px;
+      }
+    }
   }
 }
-
-

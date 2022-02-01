@@ -1,4 +1,4 @@
-title: mmmint.ai - building smart solutions
+title: Digitaler Produktpass
 subtitle: Bargeld anstatt Werkstattbesuch! In unter 5 Minuten zum Kostenvoranschlag! Mit MrFiktiv schnell und einfach Fahrzeugschäden abrechnen.
 baseurl: /
 permalink: "/:year/:month/:day/:title/"
@@ -10,21 +10,19 @@ collections:
 
 header:
   title: mmmint.ai
-  logo_img: images/logo.png
+  logo_img: images/scan.png
   has_nav: true
   nav:
-    Home: "index"
-    Blog: "blog"
-    Solutions: "solutions"
+    Produkt: "index"
   palette: blue
   menu:
     actions:
       - label: Sign Up
         url: /signup
 footer:
-  logo_img: images/logo_alt.png
-  tagline: mmmint.ai - building smart solutions
-  content: "&copy; MMM Intelligence UG (haftungsbeschränkt). All rights reserved."
+  logo_img: images/scan.png
+  tagline: Der digitale Produktpass
+  content: 
   links:
     - text: Impressum
       url: "/impressum"
@@ -33,21 +31,9 @@ footer:
       url: "/datenschutz"
       new_window: false
 
-  social_title: Community
-
   nav_title: Company
   nav:
-    Home: "index"
-    Blog: "blog"
-    Solutions: "solutions"
-    Workshops: "workshops"
-    Career: "career"
-    About: "about"
-    Status: "solutions/status"
-
-  has_subscribe: true
-  subscribe_title: "Subscribe"
-  subscribe_content: "Melde dich jetzt bei unserem Newsletter an und bleibe immer auf dem neuesten Stand. Wir berichten als Start-Up rund um KI & Digitales."
+    Produkt: "index"
 
 defaults:
   -

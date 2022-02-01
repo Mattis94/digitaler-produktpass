@@ -1,13 +1,12 @@
 ---
-title: docphant - Schneller und ortsunabhängiger Zugriff auf spezifische Produktinformationen.
+title: Digitaler Produktpass - Schneller und ortsunabhängiger Zugriff auf spezifische Produktinformationen.
 subtitle: >-
-  docphant. ist die Informationsplattform für produktspezifische, technische Dokumentation wie Originalbetriebsanleitungen,Zusammenbauzeichnungen, Stücklisten und weitere Inhalte, die für Ihren Kunden wichtig sind. Alle Dokumente sind an jedem Ort der Welt schnell abruf- und gerätespezifisch nutzbar. Damit verbessert die browserbasierte-Software, die Interaktion zwischen Hersteller und Kunde und vereinfacht die Bereitstellung der technischen Dokumentation erheblich.
 share-image: images/docphant_logo.png
 sections:
   - section_id: hero
-    component: hero_block.html
-    type: heroblock
-    image: images/screens_docphant.png
+    component: video_block.html
+    type: videoblock
+    video: videos/video.mp4
     title: Digitaler Produktpass
     content: >-
       Schneller und ortsunabhängiger Zugriff auf spezifische Produktinformationen.
@@ -20,7 +19,7 @@ sections:
     bg: gray
     title: Der digitale Produktpass
     subtitle: >-
-      doc<text class="title-bold">phant.</text> ist  die Informationsplattform für produktspezifische, technische Dokumentation wie Originalbetriebsanleitungen,Zusammenbauzeichnungen, Stücklisten und weitere Inhalte, die für Ihren Kunden wichtig sind. Alle Dokumente sind an jedem Ort der Welt schnell abruf- und gerätespezifisch nutzbar. ​Damit verbessert die browserbasierte-Software, die Interaktion zwischen Hersteller und Kunde und vereinfacht die Bereitstellung der technischen Dokumentation erheblich.​
+      <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FB7Vq7Hli4sS76qp58gbDLP%2FPrototyping-in-Figma%3Fnode-id%3D0%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D0%253A2" allowfullscreen></iframe>
     featureslist:
     - title: docphant. in einer Minute
       video: /videos/docphant.mp4
