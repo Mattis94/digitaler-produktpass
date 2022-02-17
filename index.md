@@ -1,7 +1,7 @@
 ---
 title: Digitaler Produktpass - Schneller und ortsunabhängiger Zugriff auf spezifische Produktinformationen.
 subtitle: >-
-share-image: images/docphant_logo.png
+share-image: images/scan.png
 sections:
   - section_id: hero
     component: video_block.html
