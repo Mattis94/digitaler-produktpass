@@ -2,13 +2,14 @@
   {% assign video_is_not_empty = include.section.video | is_not_empty %} {% if
   video_is_not_empty %}
   <div class="block-content">
-    <video autoplay loop muted>
-      <source
-        src="{{ include.section.video | relative_url }}"
-        type="video/mp4"
-      />
-    </video>
-
+    <div class="video-container">
+      <video autoplay loop muted>
+        <source
+          src="{{ include.section.video | relative_url }}"
+          type="video/mp4"
+        />
+      </video>
+    </div>
     <div class="cell block-content videotitle">
       <h1 class="block-title underline">{{ include.section.title }}</h1>
       <div class="block-copy">
