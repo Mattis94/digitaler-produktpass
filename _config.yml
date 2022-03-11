@@ -14,6 +14,7 @@ header:
   has_nav: true
   nav:
     Produkt: "index"
+    Blog: "blog"
   palette: blue
   menu:
     actions:
