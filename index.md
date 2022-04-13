@@ -16,7 +16,7 @@ sections:
     bg: gray
     title:
     subtitle: >-
-      <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSLpuqEimLoUkm7ko6tVIuh%2FDigitaler-Produktpass%3Fnode-id%3D359%253A688%26scaling%3Dscale-down%26page-id%3D15%253A11%26starting-point-node-id%3D18%253A0" allowfullscreen></iframe>
+      <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1200" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FSLpuqEimLoUkm7ko6tVIuh%2FDigitaler-Produktpass%3Fnode-id%3D18%253A0%26scaling%3Dscale-down%26page-id%3D15%253A11%26starting-point-node-id%3D18%253A0" allowfullscreen></iframe>
     featureslist:
       - title: Was ist der digitale Produktpass?
         content: >-
