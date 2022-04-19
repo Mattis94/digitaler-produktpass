@@ -13,8 +13,7 @@ header:
   logo_img: images/scan.png
   has_nav: true
   nav:
-    Produkt: "index"
-    Blog: "blog"
+    Produkt: "index"  
   palette: blue
   menu:
     actions:

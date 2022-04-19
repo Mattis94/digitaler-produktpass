@@ -20,30 +20,19 @@ sections:
     featureslist:
       - title: Was ist der digitale Produktpass?
         content: >-
-          In der EU Klimapolitik wird ein elektronischer bzw. digitaler Produktpass als wesentliches Instrument für eine klimaschonende und ressourceneffiziente Wirtschaft genannt. Dieser soll u.a. Informationen über Herkunft, Zusammensetzung, Reparatur- und Demontagemöglichkeiten ines Produktes sowie über die Handhabung am Ende seiner Lebensdauer liefern.
+          Der digitale Produktpass bündelt sämtliche Produktinformationen in einer Datenbank. Hierzu gehören unter anderem die verwendeten Materialien, chemischen Substanzen, Komponenten sowie gegebenenfalls auch zusätzliche Informationen zu Ersatzteilen, Reparierbarkeit oder fachgerechter Entsorgung. Hierbei wird der gesamte Produktlebenszyklus vom Rohstoffabbau über die Fertigung bis hin zum Endprodukt erfasst werden.
       - title: Transparenz im Wertschöpfungskreislauf
         image: images/SVG/circle.svg
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Für den Verbraucher bringt der digitale Produktpass Transparenz in Bezug auf die Wertschöpfungskette, verwendete Ressourcen und Herkunft der Produkte.
       - title: Kreislaufwirtschaft fördern
         image: images/SVG/factory.svg
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Zusätzlich profitiert der Verbraucher von einer übersichtlichen und geprüften Darstellung der Produktinformationen sowie zusätzlichen Hinweisen zur Ökobilanz. Die Vergleichsfunktion ermöglicht eine direkte Gegenüberstellung von Produkten und fördert damit eine informierte Kaufentscheidung.
       - title: Nachhaltige Produkte
         image: images/SVG/climate.svg
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - section_id: solutions
-    component: features_block.html
-    type: featuresblock
-    bg: gray
-    title: Warum der digitale Produktpass?
-    subtitle: >-
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </br></div>
-      <br>
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</br></div>
-      <br>
-      <div class="iconContainer"><img src="./images/check.png" alt="check" width="40" height="40"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</br></div>
+          Die Applikation bietet Informationen zur Reparierbarkeit sowie Recycling-Hinweise zur Förderung der Kreislaufwirtschaft und Reduzierung des ökologischen Fußabdrucks der Produkte.
 
   - section_id: faq
     component: faq_block.html
@@ -52,21 +41,37 @@ sections:
     title: Häufig gestellte Fragen
     subtitle:
     faqitems:
-      - question: Was ist der digitale Produktpass ?
+      - question: Welche Funktionen bietet die App?
         answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      - question: Was ist der digitale Produktpass ?
+          - Erstellung eines Benutzerkontos
+          - Scannen von Produktbarcodes/-QR-Codes
+          - manuelle Suchfunktion von Produkten über eine Suchleiste
+          - Anzeige verschiedenster Produkt- und Herstellungstinformationen
+          - Vergleich mit anderen Produkten
+          - Anzeige von Referenzprodukten bzw. Alternativprodukten
+          - Einordnung von Produkten in ein Produktranking
+
+      - question: Ich kann mein Produkt nicht finden, was kann ich tun?
         answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      - question: Was ist der digitale Produktpass ?
+          Wir sind ständig bemüht unsere Datenbankinhalte, dem dynamischen Markt entsprechend zu aktualisieren. Solltest du ein Produkt dennoch mal nicht finden, wird unsere Suchmaschine deine Suche analysieren und uns ggf. eine Info zukommen lassen, damit wir dein gesuchtes Produkt aufnehmen können. Besuche unsere App dann bitte nochmal einmal zu einem späteren Zeitpunkt.
+      - question: Wer versichert mir, dass die Daten zu den Produkten korrekt sind?
         answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      - question: Was ist der digitale Produktpass ?
+          Alle Produktdaten die wir für dich bereitstellen werden von unabhängigen Marktüberwachungsbehörden strengstens kontrolliert. 
+          Wollen Produkthersteller ihre Produkte bei uns platzieren, müssen Sie entsprechende Zertifikate nachweisen, die den Herstellungsprozess sowie die gesamte Wertschöpfungskette des Produktes offenlegen und nachvollziehbar machen. Alle hierbei angegebenen Daten zur Ökobilanz, Haltbarkeit, Wiederverwertbarkeit und Entsorgung unterliegen daraufhin sorgfältigen Kontrollen von unabhängigen Behörden. Diese Behörden verfügen über umfangreiches Know-How in Bezug auf Benchmarks in den entsprechenden Branchen und Produktkategorien.
+
+      - question: Wie kann ich mich in der Applikation registrieren?
         answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      - question: Was ist der digitale Produktpass ?
+          Die Registrierung erfolgt über eine E-Mail-Adresse sowie ein selbstgewähltes Passwort. Im Anschluss erhältst du eine Bestätigungs-E-Mail zur Verifizierung deines Accounts.
+      - question: Wie kann ich mein Passwort zurücksetzen?
         answer: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Solltest du dein Passwort vergessen haben, kannst du dieses zurücksetzen. Hierzu musst du unter “Passwort vergessen” deine im Account hinterlegte E-Mail-Adresse eingeben. Im Anschluss erhältst du eine E-Mail zum weiteren Ablauf der Passwort-Aktualisierung.
+      - question: Wie kann ich Produkte in der Applikation finden?
+        answer: >-
+          Die Applikation bietet eine “manuelle Suche” an. Hier kannst du über die Eingabemaske und den Produktnamen dein Produkt finden. Alternativ kannst du auch die Funktion zum Scannen des Produkt-Barcodes nutzen, um direkt zu deinem Produkt zu gelangen
+      - question: Wie kann ich Produkte vergleichen?
+        answer: >-
+          Hierzu musst du zunächst das Produkt heraussuchen, welches du vergleichen möchtest. In der Übersicht zu den Produktinformationen kannst du die Funktionalität “Vergleichen” finden. Im Anschluss wählst du das Produkt aus, welches du zum Vergleich nutzen möchtest. Die Applikation liefert dir dann eine aussagekräftige Gegenüberstellung der Produkte.
 
 layout: home
 ---
+
