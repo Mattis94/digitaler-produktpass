@@ -24,9 +24,6 @@ footer:
   tagline: Der digitale Produktpass
   content: 
   links:
-    - text: Impressum
-      url: "/impressum"
-      new_window: false
     - text: Datenschutz
       url: "/datenschutz"
       new_window: false
